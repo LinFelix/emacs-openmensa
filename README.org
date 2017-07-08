@@ -1,0 +1,3 @@
+* Emacs-openmensa
+  This is a small script/mode that lets you access the [[http://doc.openmensa.org/api/v2/][openmensa APIv2]] from
+  [[http://openmensa.org][openmensa.org]] from inside Emacs
